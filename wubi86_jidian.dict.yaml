@@ -1638,9 +1638,6 @@ encoder:
 蒎	aire	100
 萡	airf	100
 落后	airg	10
-AirPods	airp	30
-AirPods Pro	airp	20
-AirPower	airp	10
 落魄	airr	10
 菏	ais	100
 东西	aisg	10
@@ -2737,7 +2734,6 @@ AirPower	airp	10
 营火	apoo	10
 荧	apou	100
 营寨	appf	10
-Apple	appl	20
 劳军	appl	10
 蒙冤	appq	10
 劳神	appy	10
@@ -11856,7 +11852,6 @@ u	copu	100
 剋	dqjk	100
 克星	dqjt	10
 爽口	dqkk	10
-爽呆	dqks	10
 面包车	dqlg	10
 三角架	dqlk	10
 勀	dqln	100
@@ -12407,7 +12402,6 @@ u	copu	100
 磋	dud	100
 磅礴	duda	30
 磋	duda	200
-磳碟	duda	10
 夺门而出	dudb	10
 大慈大悲	dudd	20
 非亲非故	dudd	10
@@ -13254,7 +13248,6 @@ u	copu	100
 须	ed	200
 腌	ed	100
 腌菜	edae	10
-爱克斯光	edai	10
 爱奇艺	edan	10
 膸	edap	100
 肱	edc	100
@@ -22507,7 +22500,6 @@ u	copu	100
 现时	gmjf	20
 曺	gmjf	100
 襾	gmjg	100
-丙申	gmjh	10
 丽日	gmjj	10
 遭遇	gmjm	10
 两颗	gmjs	10
@@ -22550,7 +22542,6 @@ u	copu	100
 丙烯	gmoq	10
 刺字	gmpb	10
 两家	gmpe	10
-丙寅	gmpg	10
 帯	gmph	100
 再审	gmpj	10
 遭灾	gmpo	10
@@ -23039,7 +23030,6 @@ u	copu	100
 琬	gpqb	100
 正襟危坐	gpqw	10
 珍宝岛	gpqy	10
-GoPro	gpr	10
 不客气	gprn	10
 瑸	gprw	100
 列宁格勒	gpsa	10
@@ -23719,7 +23709,6 @@ GoPro	gpr	10
 一盘棋	gtsa	10
 麦杆	gtsf	10
 夹竹桃	gtsi	10
-玫枫	gtsm	10
 平衡木	gtss	10
 不得要领	gtsw	10
 麦季	gttb	10
@@ -24803,7 +24792,6 @@ GoPro	gpr	10
 頉	hdmy	100
 	hdqg	100
 凸面镜	hdqu	10
-HDR	hdr	10
 狊	hdu	100
 瞭	hdui	100
 睶	hdwj	100
@@ -28628,7 +28616,6 @@ HDR	hdr	10
 油区	imaq	10
 澧	imau	100
 淟	imaw	100
-IMAX	imax	10
 小册子	imbb	10
 测出	imbm	10
 没了	imbn	10
@@ -29097,7 +29084,6 @@ IMAX	imax	10
 没精打采	iore	10
 淡抹	iorg	10
 水煤气	iorn	10
-iOS	ios	10
 消火栓	iosw	10
 淡季	iotb	10
 消炎片	ioth	10
@@ -29119,7 +29105,6 @@ iOS	ios	10
 学工	ipaa	10
 浓荫	ipab	10
 学期	ipad	30
-iPad	ipad	20
 深藏	ipad	10
 掌鞭	ipaf	10
 沉落	ipai	10
@@ -29227,7 +29212,6 @@ iPad	ipad	20
 掌上	iphh	10
 学步	iphi	10
 学点	iphk	10
-iPhone	ipho	10
 深壑	iphp	10
 覚	iphq	100
 沉睡	ipht	10
@@ -29339,7 +29323,6 @@ iPhone	ipho	10
 学习	ipnu	20
 演习	ipnu	10
 掌心	ipny	10
-iPod	ipod	10
 学业	ipog	10
 浓烟	ipol	10
 沉迷	ipop	10
@@ -36352,7 +36335,6 @@ iPod	ipod	10
 吊带	kmgk	20
 哃	kmgk	100
 吊死	kmgq	10
-km/h	kmh	20
 吊	kmh	100
 吊	kmhj	100
 跋山涉水	kmii	10
@@ -40075,8 +40057,6 @@ km/h	kmh	20
 賤	maat	100
 曲子	mabb	10
 曲阳	mabj	10
-Macbook	macb	10
-macOS	maco	10
 曲	mad	100
 内蒙古自治区	mada	10
 嵌套	madd	10
@@ -40208,7 +40188,6 @@ macOS	maco	10
 邮局	mbnn	10
 邮发	mbnt	10
 邮戳	mbnw	10
-MacbookPro	mbp	10
 邮寄	mbpd	10
 邮包	mbqn	10
 邮报	mbrb	10
@@ -49832,7 +49811,6 @@ MacbookPro	mbp	10
 安插	pvrt	10
 安拉	pvru	10
 案	pvs	100
-安可	pvsk	10
 安枕	pvsp	10
 案板	pvsr	10
 案	pvsu	100
@@ -50817,7 +50795,6 @@ MacbookPro	mbp	10
 狼子野心	qbjn	10
 鐊	qbjr	100
 凶	qbk	100
-饿了吗	qbkc	10
 凶器	qbkk	10
 锰	qbl	100
 盌	qblf	100
@@ -53461,7 +53438,6 @@ MacbookPro	mbp	10
 夤缘	qpxx	10
 鎺	qpyg	100
 多	qq	200
-QQ	qq	10
 金工	qqaa	10
 多项	qqad	10
 金牙	qqah	10
@@ -56906,7 +56882,6 @@ QQ	qq	10
 迫不得已	rgtn	10
 白平衡	rgtq	10
 乒	rgtr	100
-拆五笔	rgtt	10
 手不释卷	rgtu	10
 兵不血刃	rgtv	10
 兵符	rgtw	20
@@ -60006,7 +59981,6 @@ QQ	qq	10
 搁	rutk	300
 接种	rutk	20
 擱	rutk	100
-抖币	rutm	20
 拉秧	rutm	10
 撞翻	ruto	10
 接管	rutp	10
@@ -60096,7 +60070,6 @@ QQ	qq	10
 抛荒	rvay	10
 垫子	rvbb	10
 热阻	rvbe	10
-白刀子进	rvbf	10
 招聘	rvbm	20
 抛出	rvbm	10
 招降	rvbt	10
@@ -61447,7 +61420,6 @@ QQ	qq	10
 楔	sdh	100
 栫	sdhb	100
 楔	sdhd	100
-SD卡	sdhh	20
 顶上	sdhh	10
 椅桌	sdhj	10
 顶点	sdhk	10
@@ -62188,7 +62160,6 @@ SD卡	sdhh	20
 要不然	sgqd	20
 枉然	sgqd	10
 配角	sgqe	10
-酷鱼	sgqg	20
 本钱	sgqg	10
 配乐	sgqi	10
 栵	sgqj	100
@@ -66172,7 +66143,6 @@ SD卡	sdhh	20
 告退	tfve	10
 待建	tfvf	10
 选录	tfvi	10
-臭老九	tfvt	10
 歃	tfvw	100
 先妣	tfvx	10
 等他	tfwb	10
@@ -69081,7 +69051,6 @@ T恤	tntl	10
 毛毛雨	ttfg	10
 笔直	ttfh	20
 筕	ttfh	100
-TF卡	ttfhh	10
 秊	ttfj	100
 筶	ttfk	100
 穳	ttfm	200
@@ -70402,7 +70371,6 @@ TF卡	ttfhh	10
 闻闻	ubub	10
 疗养	ubud	20
 逆差	ubud	10
-Ubuntu	ubun	10
 疗效	ubuq	10
 闻道	ubut	10
 癊	ubwc	100
@@ -73879,7 +73847,6 @@ Ubuntu	ubun	10
 立誓	uurr	20
 前前后后	uurr	10
 阅批	uurx	10
-亲亲抱抱举高高	uury	10
 痫	uus	100
 立柜	uusa	10
 竴	uusf	100
@@ -73932,7 +73899,6 @@ Ubuntu	ubun	10
 立说	uuyu	10
 立论	uuyw	10
 立方	uuyy	20
-m³	uuyy	10	立方
 妆	uv	100
 兼营	uvap	10
 新婚燕尔	uvaq	10
@@ -74150,7 +74116,6 @@ m³	uuyy	10	立方
 冷枪	uwsw	10
 益智	uwtd	10
 冷盘	uwte	10
-六人行	uwtf	10
 益处	uwth	10
 准备	uwtl	10
 闪身	uwtm	10
@@ -78584,7 +78549,6 @@ m³	uuyy	10	立方
 倘	wimk	100
 僘	wimt	100
 分水岭	wimw	10
-Windows	wind	10
 信赏必罚	winl	10
 偿	wip	100
 偿	wipc	100
@@ -80606,7 +80570,6 @@ Windows	wind	10
 仇杀	wvqs	10
 侵犯	wvqt	30
 健儿	wvqt	20
-伊妹儿	wvqt	10
 借刀杀人	wvqw	10
 分拣	wvra	10
 分摊	wvrc	10
@@ -82005,7 +81968,6 @@ Windows	wind	10
 绌	xbmh	200
 絀	xbmh	100
 弛	xbn	100
-XBox	xbox	10
 红卫兵	xbrg	10
 经院哲学	xbri	10
 继承权	xbsc	10
@@ -87990,7 +87952,6 @@ XBox	xbox	10
 旗	ytaw	100
 放荒	ytay	10
 施	ytb	200
-YouTube	ytb	10
 旗子	ytbb	10
 诈取	ytbc	10
 州际	ytbf	10
