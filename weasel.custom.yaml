@@ -100,3 +100,5 @@ patch:
       comment_text_color: 0xBBCC27
 
   style/layout/border_width: 1
+  vim:
+    vim_mode: true  
